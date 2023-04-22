@@ -1,0 +1,1000 @@
+Bedrock,77
+Smeaton,57
+Note,44
+Golden Coast,74
+Pallet Town,83
+Note,94
+Sweet Lips,55
+Sunnydale,78
+Hill Valley,19
+Bon Accord,14
+Stepford,58
+Atlantis,68
+Cougarville,30
+Vishterich,40
+Spies,61
+Tip Top,92
+Bon Accord,48
+Altoona,99
+Los Santos,68
+Stenen,10
+Barking,96
+Girsh,86
+Oakfuskudshi,70
+Note,74
+Note,95
+Welcome Corner,77
+Westlake Village,83
+Liberty Heights,73
+Glenwood,77
+Moslow,38
+Blanket,4
+Parrot,92
+Carpentersville,68
+Caloosahatchee,20
+Saturn,66
+Stetson,13
+White Hawk,2
+Eighty Four,55
+Girsh,4
+Stenen,83
+White Pines,55
+Sommersdale,40
+Classet,66
+Avalon,51
+Stringtown,63
+Smackover,56
+Agatha,18
+Oakston,73
+Vice City,22
+Liberty Heights,26
+Avalon,6
+Smuggler's Notch,24
+Talking Leaves,33
+Bonus,94
+Cabot Cove,76
+Winniconic,79
+Chinnith,11
+La Riviera,50
+Minnesota,90
+Note,13
+Pluggys Town,6
+Lincoln Heights,87
+Stetson,11
+Carpentersville,28
+Clemen,71
+Torsche,75
+Heartstrong,48
+Havensford,30
+Glenwood,12
+Parchment,11
+Sweet Lips,64
+Eighty Four,29
+Haddonfield,95
+Caloosahatchee,32
+Stenen,33
+Golden Creek,70
+Eastlake Village,9
+Zeiswich,41
+Eighty Four,0
+Westlake Village,93
+Americus,70
+Quails Nest,75
+Whitebreast,60
+Torsche,3
+Eagleview,17
+Matrimony,16
+Smuggler's Notch,36
+Nevile,28
+Golden Creek,12
+Middlemarch,86
+Hogsmeade,51
+Thunder Bay,23
+Henworth,73
+Cabot Cove,59
+Spies,84
+Spies,49
+Thunder Bay,9
+Cherryville,64
+Blackstone,44
+Barking,59
+Blackstone,94
+Elk Grove,99
+Pallet Town,48
+Lincoln Heights,45
+Questa Verde,24
+Havensford,82
+Atlantis,97
+Matrimony,77
+Sylvan Lake,12
+Castle Rock,9
+Durview,97
+Citt�gazze,67
+Rayington,27
+Carpentersville,68
+Barking,67
+La Riviera,35
+Agatha,31
+Smuggler's Notch,3
+Greystone,80
+Saint Harper,40
+Rago,33
+Gay Meadows,31
+Welcome Corner,38
+Cherryville,12
+Owltown,24
+Sylvan Lake,37
+Matrimony,32
+Note,70
+Bedrock,30
+Amethyst,14
+Talking Leaves,43
+Westlake Village,27
+Glenwood,24
+Parrot,58
+Wurgsburn,10
+Bonus,19
+Noordeloos,17
+West End,22
+Bedrock,36
+Spies,20
+Smackover,67
+Avalon,94
+Glenwood,24
+Sylvan Lake,73
+Golden Creek,38
+El Dorado,31
+Sierra,11
+Americus,84
+Soda Bay,26
+Haddonfield,91
+Birchwood,94
+Glenwood,72
+Gay Meadows,24
+Welcome Corner,19
+Blanket,51
+Parrot,14
+Cabot Cove,42
+Note,14
+Elk Grove,21
+Pallet Town,28
+Stepford,48
+Heritage Park,92
+Caloosahatchee,45
+Stepford,23
+Eagleview,90
+Blackstone Valley,56
+Sylvan Lake,60
+Eastlake Village,54
+Agatha,23
+Nevile,36
+Sunnydale,7
+Oakfuskudshi,55
+Rayington,36
+Elk Grove,44
+Rago,82
+El Dorado,8
+Stetson,63
+Sunny Palms Beach,22
+Note,4
+Birchwood,74
+Horizon Bay,96
+Wedgewood Creek,25
+Winniconic,89
+Rurojo,52
+Gay Meadows,89
+Chore,31
+Rancho Cordova,78
+Sweet Lips,31
+Rancho Cordova,23
+Zion,77
+Lincoln Heights,18
+Emerald City,99
+Smithtown,68
+Classet,55
+Stringtown,69
+Citt�gazze,77
+Zion,76
+Poarisia,14
+Smuggler's Notch,69
+Heritage Park,71
+Scrabble,49
+Stepford,72
+Eagleview,86
+Durview,18
+Smeaton,66
+Haddonfield,94
+Nevile,61
+Natomas,39
+Greystone,41
+Winniconic,71
+New Havertown,98
+Barking,70
+Smackover,64
+Parrot,16
+Liberty Falls,53
+Talking Leaves,51
+Rago,77
+Glenwood,55
+Mos Eisley,2
+Smeaton,62
+White Hawk,15
+Eastlake Village,19
+Clemen,4
+Metacalf,66
+Cougarville,81
+Durview,12
+Zeiswich,49
+Sommersdale,87
+Oakfuskudshi,87
+Eagleview,7
+Welcome Corner,46
+Smithtown,34
+Saturn,8
+Atlantis,57
+Bedrock,73
+Blanket,37
+Oakfuskudshi,65
+Annex,64
+Emerald City,68
+Moslow,92
+New Havertown,4
+Mayberry,83
+Heritage Park,40
+Durview,94
+Poarisia,97
+Havensford,16
+Noordeloos,71
+Zeiswich,42
+Sylvan Lake,84
+Stringtown,32
+Middlemarch,76
+New Havertown,43
+Oakston,30
+La Riviera,31
+Autumn Springs,92
+Stetson,62
+White Hawk,37
+Mayberry,53
+Priest,99
+West End,95
+Stepford,25
+Rurojo,24
+Matrimony,74
+Blackstone,90
+Sierra,3
+Heartstrong,77
+Castle Rock,60
+Hill Valley,33
+Cude Crossing Windmill,49
+Priest,66
+New Havertown,23
+Bonus,0
+Noordeloos,82
+Matrimony,23
+Le Freuden,91
+Sylvan Lake,44
+Saturn,29
+Lincoln Heights,54
+Sweet Lips,62
+Rago,17
+Vishterich,85
+Parchment,8
+Bella Vista,92
+Priest,78
+Greystone,28
+Hogsmeade,33
+Altoona,91
+Bonus,71
+Quails Nest,36
+Parrot,83
+Ambler,24
+White Hawk,79
+Americus,27
+Bella Vista,12
+Annex,9
+Winniconic,52
+Tuoah,39
+Oakston,50
+West End,66
+New Diggings,1
+Clemen,78
+Tennessee,10
+Mclean,22
+Questa Verde,14
+Mos Eisley,28
+Stringtown,17
+White Pines,3
+Greystone,31
+Eastport,39
+Stepford,1
+Welcome Corner,54
+Smithtown,59
+New Havertown,81
+West End,59
+Questa Verde,78
+Priest,16
+Smeaton,16
+Horizon Bay,50
+Priest,29
+Soda Bay,84
+Smithtown,3
+Whitebreast,98
+Fulton Oaks,4
+Cougarville,34
+Bedrock,50
+Whitebreast,56
+Saint Harper,19
+White Pines,96
+Spies,27
+Cude Crossing Windmill,38
+Duma Hills,76
+Ambler,25
+Lincoln Heights,68
+Tip Top,93
+Heritage Park,10
+Eastlake Village,19
+Chassey,96
+Cougarville,38
+Matrimony,79
+Smithtown,87
+Barking,55
+Smuggler's Notch,70
+Eastlake Village,8
+Cude Crossing Windmill,89
+Minnesota,99
+Pluggys Town,51
+Los Santos,33
+Elk Grove,15
+Citt�gazze,72
+Dry Prong,93
+Sommersdale,76
+Silver Cross,78
+White Pines,21
+Chassey,18
+Smeaton,54
+Bedrock,4
+Chore,40
+Agatha,15
+New Diggings,65
+Nevile,45
+Cabot Cove,36
+Wurgsburn,63
+Zeiswich,6
+Gay Meadows,77
+Golden Creek,91
+New Havertown,13
+Poarisia,66
+Classet,63
+Altoona,38
+Sylvan Lake,29
+Golden Coast,97
+Agatha,76
+Eastlake Village,21
+Walnut Village,92
+Pluggys Town,39
+El Dorado,26
+Manur,35
+Fountain Grove,91
+Rago,86
+Greystone,25
+Autumn Springs,92
+Agatha,79
+Scrabble,18
+Classet,97
+Citt�gazze,3
+Cherryville,71
+Sunny Palms Beach,31
+Vice City,90
+Horizon Bay,94
+Vice City,33
+Duma Hills,62
+El Dorado,8
+Amethyst,17
+Sunny Palms Beach,46
+Metacalf,7
+Eastlake Village,1
+Citt�gazze,7
+Tearieat,97
+Chinnith,19
+Welcome Corner,22
+Stringtown,61
+Liberty Falls,56
+Mos Eisley,99
+Castle Rock,31
+Stringtown,21
+Smuggler's Notch,20
+Mayberry,31
+Fulton Oaks,7
+Castle Rock,39
+Sun Valley,71
+Mayberry,65
+Sierra,89
+Blanket,46
+Girsh,15
+Hustle,94
+Atlantis,48
+Priest,73
+Chore,16
+Rancho Cordova,60
+Emerald City,18
+Rago,81
+Winniconic,55
+Duma Hills,14
+Golden Creek,88
+Gay Meadows,75
+Moslow,39
+Rurojo,17
+Amethyst,78
+Sierra,80
+Walnut Village,62
+Mayberry,67
+Barking,15
+Tip Top,86
+Citt�gazze,66
+Smuggler's Notch,2
+Talking Leaves,46
+Rayington,71
+Laqwisch,61
+Ashton Park,60
+Sun Valley,8
+Smuggler's Notch,32
+Matrimony,26
+Quails Nest,6
+Note,19
+Smackover,23
+Greystone,93
+Oakston,24
+Parrot,68
+Sun Valley,86
+Springfield,95
+Pluggys Town,46
+Bonus,14
+Cude Crossing Windmill,87
+Springfield,76
+Priest,53
+Amethyst,18
+Stetson,34
+Caloosahatchee,70
+Talking Leaves,38
+Welcome Corner,74
+Birchwood,78
+Vasilia,91
+Golden Creek,64
+Chassey,30
+Gay Meadows,84
+Eagleview,18
+Oakfuskudshi,30
+Horizon Bay,99
+White Hawk,31
+Elk Grove,99
+Tip Top,51
+Greystone,73
+Eighty Four,41
+West End,5
+Eastport,25
+Sweet Lips,91
+Note,31
+Manur,58
+Priest,5
+Sunnydale,37
+Smuggler's Notch,6
+Agatha,47
+Chinnith,12
+Golden Coast,77
+Rago,54
+Torsche,32
+Smeaton,52
+Liberty Heights,42
+Owltown,77
+Natomas,47
+Blackstone,3
+Amethyst,35
+Sierra,49
+Emerald City,89
+Sunnydale,81
+Chore,85
+Fountain Grove,8
+Elk Grove,14
+Zeiswich,58
+Saturn,21
+Castle Rock,73
+Chinnith,79
+Pluggys Town,31
+Sierra,41
+Fountain Grove,39
+Mos Eisley,73
+Greystone,89
+West End,9
+El Dorado,66
+Agatha,49
+Sommersdale,83
+Amethyst,62
+Smackover,78
+West End,59
+Wurgsburn,28
+Smithtown,51
+Cude Crossing Windmill,36
+White Hawk,48
+Durview,18
+Pluggys Town,48
+Elk Grove,25
+Autumn Springs,10
+Sun Valley,48
+Spies,88
+Talking Leaves,33
+Smackover,46
+Dry Prong,67
+Hill Valley,98
+El Dorado,45
+Soda Bay,56
+White Hawk,91
+Oakfuskudshi,92
+Bedrock,69
+Liberty Falls,80
+Stepford,52
+Tearieat,1
+Hogsmeade,69
+Bon Accord,72
+La Riviera,27
+Clemen,97
+Gay Meadows,72
+Harwood,55
+Wedgewood Creek,77
+Pallet Town,76
+Liberty Falls,46
+Rayington,96
+Eighty Four,72
+Laqwisch,56
+Pallet Town,27
+Golden Coast,0
+Nevile,80
+Golden Coast,39
+Dry Prong,85
+Fountain Grove,6
+Hungry Horse,84
+Duma Hills,61
+Golden Coast,71
+Oakfuskudshi,5
+Vasilia,97
+Chinnith,54
+Emerald City,76
+Eagleview,14
+New Havertown,90
+Liberty Falls,48
+Heartstrong,35
+Oakston,66
+Cougarville,26
+Sylvan Lake,72
+Durview,69
+Ambler,3
+Heartstrong,47
+Eastlake Village,56
+Sun Valley,49
+West End,79
+Questa Verde,40
+Liberty Heights,90
+Sweet Lips,73
+Blanket,43
+Castle Rock,50
+Blackstone Valley,16
+Golden Coast,25
+Saturn,90
+Minnesota,52
+Rago,88
+Owltown,81
+El Dorado,53
+Dry Prong,4
+Poarisia,54
+Sierra,73
+Zion,8
+Sommersdale,59
+Oakston,68
+Sweet Lips,1
+Barking,90
+Vice City,76
+Parrot,58
+Wurgsburn,51
+Americus,74
+Welcome Corner,90
+Wurgsburn,60
+Mos Eisley,79
+Scrabble,42
+Emerald City,9
+Yarmouth,49
+Tennessee,86
+Heartstrong,1
+Heritage Park,46
+Classet,65
+Wurgsburn,12
+Horizon Bay,38
+Quails Nest,78
+Manur,55
+Smithtown,20
+Priest,9
+Middlemarch,92
+Cude Crossing Windmill,10
+Saint Harper,22
+Stepford,81
+Rayington,89
+Torsche,15
+Altoona,84
+Saturn,59
+Talking Leaves,85
+Yarmouth,5
+Liberty Heights,66
+Wurgsburn,85
+Hungry Horse,20
+Duma Hills,52
+Silver Cross,85
+Eagleview,60
+Elk Grove,91
+Autumn Springs,14
+Altoona,8
+Vishterich,1
+Birchwood,88
+New Diggings,40
+Moslow,81
+Tennessee,74
+Rancho Cordova,58
+Sierra,41
+Wedgewood Creek,66
+Questa Verde,66
+Castle Rock,86
+Eagleview,14
+Smithtown,51
+Golden Coast,82
+Chore,83
+Castle Rock,42
+Smuggler's Notch,84
+Bella Vista,60
+Spies,20
+West End,93
+Metacalf,84
+Blackstone Valley,82
+Silver Cross,28
+Haddonfield,37
+Emerald City,10
+Noordeloos,31
+Scrabble,17
+Minnesota,88
+Barking,93
+Springfield,95
+Harwood,45
+Spies,89
+Torsche,11
+Sunny Palms Beach,36
+Silver Cross,45
+Haddonfield,85
+Golden Creek,55
+Chassey,53
+Winniconic,20
+Note,82
+Smuggler's Notch,59
+Minnesota,99
+Golden Creek,28
+White Pines,56
+Fountain Grove,5
+Rago,15
+White Pines,6
+Hill Valley,4
+Heritage Park,94
+Saint Harper,48
+Heritage Park,24
+Henworth,26
+Clemen,14
+Hogsmeade,58
+Bella Vista,19
+Metacalf,15
+Rancho Cordova,75
+La Riviera,28
+Ambler,18
+Eastlake Village,9
+White Pines,16
+Girsh,31
+Chinnith,65
+New Havertown,15
+Chassey,53
+Blackstone Valley,99
+Wurgsburn,93
+New Diggings,16
+Torsche,65
+Horizon Bay,15
+Cude Crossing Windmill,88
+Parrot,71
+White Pines,5
+Chore,89
+Questa Verde,17
+Smeaton,41
+Walnut Village,76
+Vasilia,84
+Springfield,95
+Durview,76
+Glenwood,21
+Oakfuskudshi,46
+Minnesota,59
+Thunder Bay,8
+Hill Valley,36
+Tennessee,43
+Fountain Grove,66
+Ambler,76
+Smithtown,13
+Silver Cross,12
+Fountain Grove,40
+Barking,79
+Bella Vista,4
+Bella Vista,96
+Tearieat,58
+Havensford,61
+West End,26
+Le Freuden,29
+Manur,9
+Questa Verde,57
+Heartstrong,9
+Lincoln Heights,51
+Fulton Oaks,67
+Autumn Springs,93
+Smeaton,1
+Hungry Horse,3
+Springfield,61
+Avalon,93
+Spies,67
+Agatha,55
+Quails Nest,80
+Bella Vista,81
+Sierra,68
+Vishterich,54
+Westlake Village,39
+Tennessee,98
+Heritage Park,31
+Avalon,43
+Cougarville,53
+Girsh,64
+Silver Cross,69
+Noordeloos,14
+Rayington,91
+Blanket,86
+Manur,6
+Autumn Springs,27
+Citt�gazze,8
+Horizon Bay,30
+Mos Eisley,77
+Parrot,52
+Quails Nest,72
+Sun Valley,13
+Zeiswich,28
+Mayberry,14
+Smackover,60
+Henworth,43
+Clemen,62
+Horizon Bay,83
+Stenen,36
+West End,20
+Questa Verde,50
+Los Santos,7
+Liberty Falls,61
+Altoona,51
+Sun Valley,76
+Whitebreast,88
+Soda Bay,82
+Natomas,52
+Saturn,28
+Fountain Grove,84
+Oakfuskudshi,29
+Bonus,30
+Stringtown,23
+Los Santos,12
+Lincoln Heights,14
+Eagleview,46
+Owltown,66
+La Riviera,12
+Citt�gazze,59
+Vasilia,31
+Altoona,75
+Durview,10
+Classet,60
+Zion,79
+Sunny Palms Beach,59
+Priest,34
+Smeaton,48
+Note,90
+Mos Eisley,66
+Tuoah,72
+Owltown,89
+Manur,34
+Smithtown,73
+Stenen,85
+Smuggler's Notch,60
+Caloosahatchee,8
+Blackstone,65
+Westlake Village,56
+New Diggings,16
+Golden Creek,3
+Stenen,61
+Blackstone Valley,82
+Ashton Park,69
+El Dorado,7
+Bon Accord,30
+Haddonfield,8
+Duma Hills,98
+Mayberry,91
+Blanket,37
+Caloosahatchee,29
+Barking,48
+Scrabble,76
+Vice City,23
+Caloosahatchee,97
+Sun Valley,30
+Birchwood,67
+Sun Valley,64
+Caloosahatchee,78
+Los Santos,65
+Nevile,2
+Girsh,65
+Natomas,69
+Barking,94
+Sommersdale,40
+Fulton Oaks,31
+Saturn,59
+New Havertown,35
+Parchment,50
+Blackstone Valley,62
+Scrabble,34
+Hogsmeade,67
+Le Freuden,57
+Hustle,68
+Bon Accord,4
+Amethyst,57
+White Pines,14
+Manur,87
+Amethyst,12
+Emerald City,72
+Sun Valley,6
+Pallet Town,57
+Oakston,17
+Golden Creek,26
+Hungry Horse,68
+Stenen,57
+Elk Grove,23
+Sierra,34
+Tip Top,61
+Natomas,41
+Springfield,91
+Havensford,69
+Thunder Bay,34
+Mayberry,96
+Blackstone Valley,75
+Horizon Bay,1
+Sylvan Lake,45
+Sweet Lips,14
+Scrabble,17
+Eagleview,81
+Annex,74
+Moslow,47
+Birchwood,14
+Note,69
+Agatha,0
+Classet,63
+Chassey,30
+Girsh,78
+Bedrock,65
+Parchment,61
+Carpentersville,94
+Castle Rock,33
+Emerald City,90
+Mclean,47
+Eighty Four,53
+Birchwood,37
+Annex,20
+Bonus,99
+Blackstone Valley,1
+Soda Bay,92
+Minnesota,85
+Hungry Horse,80
+Duma Hills,28
+Spies,76
+Bella Vista,88
+Rurojo,30
+White Hawk,47
+Classet,50
+Talking Leaves,60
+Oakfuskudshi,41
+Dry Prong,89
+Poarisia,71
+West End,11
+Stepford,33
+Cude Crossing Windmill,36
+Stenen,87
+Mclean,98
+New Havertown,48
+Soda Bay,77
+Bonus,27
+Elk Grove,82
+Moslow,57
+Citt�gazze,99
+Los Santos,92
+Questa Verde,23
+Thunder Bay,64
+Minnesota,87
+Saint Harper,90
+Moslow,88
+Poarisia,22
+Vishterich,99
+Sun Valley,8
+Elk Grove,99
+Havensford,23
+Talking Leaves,58
+White Hawk,96
+Durview,9
+Amethyst,36
+Manur,27
+Talking Leaves,51
+El Dorado,67
+Chassey,4
+Sylvan Lake,90
+Stetson,83
+Tip Top,18
+Bedrock,35
+Torsche,3
+Gay Meadows,53
+Liberty Heights,77
+Silver Cross,9
+Golden Coast,44
+Dry Prong,88
+Atlantis,5
+Sunnydale,78
+Manur,20
+West End,96
+Vishterich,21
+Walnut Village,66
+New Diggings,83
+Greystone,72
+Castle Rock,60
+Vishterich,9
+Gay Meadows,1
+Blackstone,37
+Zeiswich,64
+Questa Verde,64
+Castle Rock,79
+Tearieat,63
+Smeaton,28
+Note,74
+Sommersdale,64
+Americus,98
+Parrot,25
+Silver Cross,7
+Emerald City,69
+Zion,95
+Questa Verde,7
+Tuoah,2
+Zion,29
+Zion,11
+Pallet Town,92
+Lincoln Heights,36
+Spies,72
+Parrot,73
+Chore,99
+Classet,17
+Eastport,91
+Sierra,92
+Saint Harper,64
+Sunnydale,11
+Heritage Park,0
+Elk Grove,67
+Sunnydale,99
+Altoona,45
+Rancho Cordova,15
+Soda Bay,60
+Citt�gazze,26
+Parchment,89
+Vice City,34
+Welcome Corner,36
+Golden Creek,35
+Sweet Lips,51
+Eastport,98
+Bonus,60
+Stenen,31
+Bella Vista,78
+Tuoah,36
+Manur,43
+Blackstone,21
