@@ -67,23 +67,113 @@ public class Main {
      * Place holder function to implement for learners
      * @throws IOException
      */
-    public static void readAndWriteUsingThread() throws IOException {
+    public static void readAndWriteUsingThread() throws IOException, InterruptedException, SQLException {
         List<List<Order>> orderItems = new ArrayList<>();
         for(int i =0;i<1000;i++){
             String fileName = "./data/order"+i+".txt";
             List<Order> orders = OrderFactory.fromFile(fileName);
             orderItems.add(orders);
         }
-        //todo write thread to save list of list of orders to database
-        // write your code here
+        MySqlConnection connection = new MySqlConnection("root","root","localhost","8889","thread_demo");
+        int i = 0;
+        int count = 0;
+        int totalRecord = 0;
+        while (i < orderItems.size()){
+            List<Order> orders = orderItems.get(i);
+            i = i + 3;
+            connection.saveBatch(orders);
+            count++;
+            totalRecord += orders.size();
+            System.out.println(" save from "+Thread.currentThread().getName() +" total  list : "+count +" records : "+totalRecord);
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+
+        }
+        Thread th1 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                int i = 0;
+                int count = 0;
+                int totalRecord = 0;
+                while (i < orderItems.size()){
+                    List<Order> orders = orderItems.get(i);
+                    i = i + 3;
+                    totalRecord += orders.size();
+                    connection.saveBatch(orders);
+                    count++;
+                    System.out.println(" save from "+Thread.currentThread().getName() +" total  list : "+count +" records : "+totalRecord);
+                    try {
+                        Thread.sleep(100);
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+
+                }
+            }
+        });
+        Thread th2 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                int i = 1;
+                int count = 0;
+                int totalRecord = 0;
+                while (i < orderItems.size()){
+                    List<Order> orders = orderItems.get(i);
+                    i = i + 3;
+                    connection.saveBatch(orders);
+                    count++;
+                    totalRecord += orders.size();
+                    System.out.println(" save from "+Thread.currentThread().getName() +" total  list : "+count +" records : "+totalRecord);
+                    try {
+                        Thread.sleep(100);
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+
+                }
+            }
+        });
+        Thread th3 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                int i = 2;
+                int count = 0;
+                int totalRecord = 0;
+                while (i < orderItems.size()){
+                    List<Order> orders = orderItems.get(i);
+                    i = i + 3;
+                    connection.saveBatch(orders);
+                    count++;
+                    totalRecord += orders.size();
+                    System.out.println(" save from "+Thread.currentThread().getName() +" total  list : "+count +" records : "+totalRecord);
+                    try {
+                        Thread.sleep(100);
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+
+                }
+            }
+        });
+        th1.start();
+        th2.start();
+        th3.start();
+        th1.join();
+        th2.join();
+        th3.join();
+        
     }
 
 
-    public static void main(String[] args) throws SQLException, IOException {
+    public static void main(String[] args) throws SQLException, IOException, InterruptedException {
         //writeData();
         System.out.println("Hello world....");
         System.out.println("Hi");
         System.out.println("Testing");
+        readAndWriteUsingThread();
 
 
     }
